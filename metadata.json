@@ -1,0 +1,5 @@
+{
+  "name": "LinguaQuest",
+  "description": "A professional, gamified language learning platform inspired by Duolingo, supporting 10 global languages with a robust full-stack architecture.",
+  "requestFramePermissions": []
+}
